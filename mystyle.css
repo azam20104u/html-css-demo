@@ -1,0 +1,15 @@
+/* tag selector */
+h1,h2{
+    text-align: center;
+    color: rgb(17, 189, 189);
+}
+/* id selector */
+#header2{
+    text-align: right;
+    color: brown;
+}
+/* class selector */
+.common{
+    text-align: left;
+    color: blue;
+}
